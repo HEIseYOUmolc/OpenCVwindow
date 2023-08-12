@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>netw</class>
+ <widget class="QWidget" name="netw">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>819</width>
+    <height>667</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>TCP&amp;UDP网络调试</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QPushButton" name="BT_TCPServer">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>10</y>
+     <width>161</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+height:30px;
+width:150px;
+background:rgb(255,180,0);
+border-radius:10px;
+font-size: 20px;
+font-family:&quot;heiti&quot;;
+}</string>
+   </property>
+   <property name="text">
+    <string>TCP服务器</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="BT_HTTP">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>600</y>
+     <width>101</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+height:30px;
+width:150px;
+background:rgb(255,180,0);
+border-radius:10px;
+font-size: 20px;
+font-family:&quot;heiti&quot;;
+}</string>
+   </property>
+   <property name="text">
+    <string>HTTP下载</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="BT_TCPClient">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>151</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+height:30px;
+width:150px;
+background:rgb(255,180,0);
+border-radius:10px;
+font-size: 20px;
+font-family:&quot;heiti&quot;;
+}</string>
+   </property>
+   <property name="text">
+    <string>TCP客户端</string>
+   </property>
+   <property name="autoDefault">
+    <bool>false</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="BT_UDP">
+   <property name="geometry">
+    <rect>
+     <x>520</x>
+     <y>10</y>
+     <width>151</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+height:30px;
+width:150px;
+background:rgb(255,180,0);
+border-radius:10px;
+font-size: 20px;
+font-family:&quot;heiti&quot;;
+}</string>
+   </property>
+   <property name="text">
+    <string>UDP客户端</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="BT_Multicast">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>10</y>
+     <width>151</width>
+     <height>91</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton
+{
+height:30px;
+width:150px;
+background:rgb(255,180,0);
+border-radius:10px;
+font-size: 20px;
+font-family:&quot;heiti&quot;;
+}</string>
+   </property>
+   <property name="text">
+    <string>UDP广播</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>110</y>
+     <width>640</width>
+     <height>480</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font/>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QLabel" name="addressLabel">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>610</y>
+     <width>531</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="text">
+    <string>等待视频源</string>
+   </property>
+  </widget>
+  <widget class="QTextEdit" name="info">
+   <property name="geometry">
+    <rect>
+     <x>680</x>
+     <y>10</y>
+     <width>131</width>
+     <height>651</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

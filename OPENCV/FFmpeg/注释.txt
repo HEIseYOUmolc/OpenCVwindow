@@ -1,0 +1,8 @@
+使用版本为最新版本
+
+下载地址：https://github.com/BtbN/FFmpeg-Builds
+
+
+Latest Auto-Build (2023-07-01 12:48) 
+
+ffmpeg-master-latest-win64-gpl-shared.zip

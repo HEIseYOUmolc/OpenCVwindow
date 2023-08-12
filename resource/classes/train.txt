@@ -1,0 +1,8 @@
+rice leaf folder --adult
+rice leaf folder --Larva
+rice leaf caterpillar --adult
+rice leaf caterpillar --Larva
+paddy stem maggot --adult
+paddy stem maggot --Larva
+Chilo suppressalis --adult
+Chilo suppressalis --Larva

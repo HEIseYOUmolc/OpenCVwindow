@@ -1,0 +1,3 @@
+half_ripness
+green
+fully_ripness

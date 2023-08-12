@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>scan</class>
+ <widget class="QWidget" name="scan">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>322</width>
+    <height>276</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>选择你要查询的编号</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true"/>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>90</y>
+     <width>101</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLabel {
+    border: 2px solid #55ff7f; /* 设置边框样式和颜色 */
+    border-radius: 5px; /* 设置边框的圆角 */
+    padding: 5px; /* 设置内边距 */
+    background-color: #f2f2f2; /* 设置背景颜色 */
+    color: #555; /* 设置文本颜色 */
+}
+
+QLabel:hover {
+    border-color: #666; /* 设置鼠标悬停时的边框颜色 */
+}
+
+QLabel:focus {
+    border-color: #4CAF50; /* 设置获取焦点时的边框颜色 */
+}
+</string>
+   </property>
+   <property name="text">
+    <string>病虫害编号</string>
+   </property>
+   <property name="buddy">
+    <cstring>spinCropNo</cstring>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="cropComboBox">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>100</y>
+     <width>121</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="researchbutton">
+   <property name="geometry">
+    <rect>
+     <x>50</x>
+     <y>160</y>
+     <width>81</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-image: url(:/images/images/scan.bmp); /* 设置自定义的背景图像 */
+background-repeat: no-repeat; /* 设置背景图像不重复 */
+background-position: center center; /* 设置背景图像居中 */</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="cancelbutton">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>160</y>
+     <width>91</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <property name="text">
+    <string>取消</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

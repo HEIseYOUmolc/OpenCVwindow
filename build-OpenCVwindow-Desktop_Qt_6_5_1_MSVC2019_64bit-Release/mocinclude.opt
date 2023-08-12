@@ -1,0 +1,42 @@
+-IE:/QT-6.5/6.5.1/msvc2019_64/mkspecs/win32-msvc
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日
+-IE:/opencv/build_qt/x64/vc15
+-IE:/opencv/build_qt/include
+-IE:/opencv/build_qt/include/opencv2
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/opencv
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/screen
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/vlc
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/vlc/vlc3/include64
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/vlc/vlc3/include64/plugins
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/FFmpeg
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/OPENCV/ffmpeg/ffmpeglib/include
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/QSL
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW/TCPClient
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW/TCPServer
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW/HTTP
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW/UDP
+-IE:/研究生项目/训练数据/1.代码备份/代码备份8月11日/NETW/UDPMulticast
+-IE:/QT-6.5/6.5.1/msvc2019_64/include
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtQuick
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtOpenGL
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtWidgets
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtGui
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtSerialPort
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtCore5Compat
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtSql
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtQmlModels
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtQml
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtNetwork
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtQmlIntegration
+-IE:/QT-6.5/6.5.1/msvc2019_64/include/QtCore
+-I.
+-IE:\Visual Studio\VC\Tools\MSVC\14.36.32532\include
+-IE:\Visual Studio\VC\Tools\MSVC\14.36.32532\ATLMFC\include
+-IE:\Visual Studio\VC\Auxiliary\VS\include
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\um
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\shared
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\winrt
+-IC:\Program Files (x86)\Windows Kits\10\\include\10.0.22000.0\\cppwinrt

@@ -19,15 +19,29 @@
 
 ①提供数据库系统，加载本地sqlite模型数据库
 
+![image-20250216102014351](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102014351.png)
+
 ②netw模块，支持udp/tcp协议的发送信息配备附带协议的嵌入式设备可以做到通信
+
+![image-20250216102048848](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102048848.png)
+
+![image-20250216102058589](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102058589.png)
 
 ③配备模型、类别、输入源三种选择，并显示选择结果在信息框
 
+
+
 ④分别有原始图像和检测图像进行对比，辨别识别力度
 
+![image-20250216102120160](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102120160.png)
+
 ⑤使用vlc-qt模块能够流畅播放网上的直播源或摄像头上传的数据源
+
+![image-20250216102135078](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102135078.png)
 
 ⑥实现源检测，统计串口输入与输出的字节数量（后续会开发tcp与udp字节数量，方便查看通信质量）
 
 ⑦可选择是否保存检测后的源，图片保存为图片，摄像头、视频、rtsp、录屏、udp等保存为视频，并统计数量，避免遗漏等情况
+
+![image-20250216102203583](C:\Users\lc\AppData\Roaming\Typora\typora-user-images\image-20250216102203583.png)
 
